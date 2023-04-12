@@ -26,7 +26,3 @@ def solution(x_success: int,
         return True
     else:
         return False
-x_success = 1000
-x_cnt = 3000
-y_success = 5000
-y_cnt = 6400
